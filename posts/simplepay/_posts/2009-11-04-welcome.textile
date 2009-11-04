@@ -1,0 +1,20 @@
+---
+title: Welcome to the SimplePay blog
+layout: post
+---
+
+*Introducing the SimplePay Blog*
+
+Welcome to the SimplePay blog.  We aim to keep you informed on development and general knowledge in the area of payroll.
+
+We'll also post updates on new features of our payroll system, but you don't need to be a user of our system to benefit from our blog.  So go ahead and subscribe!
+
+*Planned articles*
+
+* Changes for the 2010 filing season.
+* Deemed remuneration for directors and members of CCs.
+* Travel allowances.
+* Company cars.
+* Fringe benefits in general.
+* Planned changes for the 2011 filing season.
+

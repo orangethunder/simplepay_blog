@@ -15,7 +15,7 @@
 body {
   font-family: 'Helvetica', 'Arial', sans-serif;
   line-height: 1.4em;
-  background-image: url(../images/pattern.png);
+	background-color: #e0fffe /*cffffe*/;
 }
 
 a:link, a:visited {
@@ -135,7 +135,7 @@ ul { list-style-type: square; }
 }
 
 #main {
-  background: #C7B795;
+  background: #FFFFFF;
 }
 
 #links {
